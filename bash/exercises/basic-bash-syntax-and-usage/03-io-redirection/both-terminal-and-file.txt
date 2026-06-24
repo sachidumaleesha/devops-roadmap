@@ -1,0 +1,16 @@
+total 4
+-rwxrwxrwx 1 diwan diwan  35 Jun 23 22:59 01-script.sh
+-rwxrwxrwx 1 diwan diwan  43 Jun 23 23:02 02-script.sh
+-rwxrwxrwx 1 diwan diwan 934 Jun 24 19:27 03-script.sh
+-rwxrwxrwx 1 diwan diwan  59 Jun 24 19:35 04-script.sh
+-rwxrwxrwx 1 diwan diwan  37 Jun 24 20:07 05-script.sh
+-rwxrwxrwx 1 diwan diwan  54 Jun 24 20:10 06-script.sh
+-rwxrwxrwx 1 diwan diwan  37 Jun 24 20:28 07-script.sh
+-rwxrwxrwx 1 diwan diwan  97 Jun 24 21:30 08-script.sh
+-rwxrwxrwx 1 diwan diwan  60 Jun 24 21:37 09-script.sh
+-rwxrwxrwx 1 diwan diwan  54 Jun 24 19:35 error.txt
+-rwxrwxrwx 1 diwan diwan  41 Jun 23 23:01 exec_stderr.txt
+-rwxrwxrwx 1 diwan diwan 118 Jun 24 20:59 log.txt
+-rwxrwxrwx 1 diwan diwan   2 Jun 24 21:30 number.txt
+-rwxrwxrwx 1 diwan diwan  41 Jun 24 19:24 output.txt
+-rwxrwxrwx 1 diwan diwan  41 Jun 24 19:24 output.txt

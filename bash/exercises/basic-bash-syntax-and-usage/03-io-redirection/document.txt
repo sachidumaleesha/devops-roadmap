@@ -1,0 +1,25 @@
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+shin
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+$USER
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+${USER}
+Here is the line 1 of document.
+Here is the line 2 of document.
+Here is the line 3 of document.
+shin
