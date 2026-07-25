@@ -1,8 +1,8 @@
-# 🚀 DevOps Roadmap — From Basics to Advanced (Notes & Resources)
+# 🚀 DevOps Roadmap - From Basics to Advanced (Notes & Resources)
 
 A personal, hands-on **DevOps learning roadmap** documenting my journey from the fundamentals to advanced practices — with **notes, commands, examples, and explanations** for every topic along the way. This repo is meant to be a practical reference you can follow step by step, or dip into for a specific topic like Bash scripting or Google Cloud Platform.
 
-> 📌 **Goal:** Cover almost everything a DevOps/SRE/Cloud engineer needs — Linux & Bash, version control, containers, orchestration, CI/CD, Infrastructure as Code, cloud platforms, monitoring, and security — in one organized, beginner-friendly-to-advanced knowledge base.
+> 📌 **Goal:** Cover almost everything a DevOps/SRE/Cloud engineer needs - Linux & Bash, version control, containers, orchestration, CI/CD, Infrastructure as Code, cloud platforms, monitoring, and security — in one organized, beginner-friendly-to-advanced knowledge base.
 
 <p align="left">
   <img alt="Status" src="https://img.shields.io/badge/status-in%20progress-yellow">
